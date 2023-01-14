@@ -14,6 +14,7 @@
 		44E447F129740AD40078B328 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44E447EF29740AD40078B328 /* Main.storyboard */; };
 		44E447F329740AD70078B328 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44E447F229740AD70078B328 /* Assets.xcassets */; };
 		44E447F629740AD70078B328 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44E447F429740AD70078B328 /* LaunchScreen.storyboard */; };
+		C1E3813D2972C126008E514B /* view1.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1E3813C2972C126008E514B /* view1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		44E447F229740AD70078B328 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		44E447F529740AD70078B328 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		44E447F729740AD70078B328 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C1E3813C2972C126008E514B /* view1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = view1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				44E447E929740AD40078B328 /* AppDelegate.swift */,
 				44E447EB29740AD40078B328 /* SceneDelegate.swift */,
 				44E447ED29740AD40078B328 /* ViewController.swift */,
+				C1E3813C2972C126008E514B /* view1.swift */,
 				4469F70E29740C7D0027584E /* New swift file.swift */,
 				44E447EF29740AD40078B328 /* Main.storyboard */,
 				44E447F229740AD70078B328 /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 				44E447EA29740AD40078B328 /* AppDelegate.swift in Sources */,
 				4469F70F29740C7D0027584E /* New swift file.swift in Sources */,
 				44E447EC29740AD40078B328 /* SceneDelegate.swift in Sources */,
+				C1E3813D2972C126008E514B /* view1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
