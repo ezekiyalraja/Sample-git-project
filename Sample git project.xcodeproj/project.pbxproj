@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4469F70F29740C7D0027584E /* New swift file.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4469F70E29740C7D0027584E /* New swift file.swift */; };
 		44E447EA29740AD40078B328 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E447E929740AD40078B328 /* AppDelegate.swift */; };
 		44E447EC29740AD40078B328 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E447EB29740AD40078B328 /* SceneDelegate.swift */; };
 		44E447EE29740AD40078B328 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E447ED29740AD40078B328 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4469F70E29740C7D0027584E /* New swift file.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "New swift file.swift"; sourceTree = "<group>"; };
 		44E447E629740AD40078B328 /* Sample git project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sample git project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		44E447E929740AD40078B328 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		44E447EB29740AD40078B328 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				44E447E929740AD40078B328 /* AppDelegate.swift */,
 				44E447EB29740AD40078B328 /* SceneDelegate.swift */,
 				44E447ED29740AD40078B328 /* ViewController.swift */,
+				4469F70E29740C7D0027584E /* New swift file.swift */,
 				44E447EF29740AD40078B328 /* Main.storyboard */,
 				44E447F229740AD70078B328 /* Assets.xcassets */,
 				44E447F429740AD70078B328 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				44E447EE29740AD40078B328 /* ViewController.swift in Sources */,
 				44E447EA29740AD40078B328 /* AppDelegate.swift in Sources */,
+				4469F70F29740C7D0027584E /* New swift file.swift in Sources */,
 				44E447EC29740AD40078B328 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
